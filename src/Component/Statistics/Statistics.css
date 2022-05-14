@@ -1,0 +1,16 @@
+.stat-style{
+    background-color:rgba(17, 9, 39, 0.959);
+    color: white;
+    padding: 10px;
+
+}
+.stat_card{
+        display: block;
+        border: 1px solid #2c2742;
+        box-shadow: 0 .5rem 1rem rgba(0,0,0,.15)!important;
+        box-sizing: border-box;
+        margin: 15px;
+        padding: 20px 10px;
+        width: 100%;
+        border-radius: 5px;
+}

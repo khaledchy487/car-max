@@ -1,0 +1,50 @@
+.demo a:hover{
+    
+    
+    background-color: #dc3545;
+    color: whitesmoke;
+
+}
+.nav-btn{
+    text-decoration: none;
+    background-color: #000000;
+    color: whitesmoke;
+    border-radius: 5px;
+    margin: 10px;
+    padding: 5px;
+    
+    
+}
+
+
+.btn-reg{
+   
+        background-color: #000000;
+        color: whitesmoke;
+        border: none;
+        border-radius: 5px;
+        margin: 10px;
+        padding: 5px; 
+       
+    }
+
+  
+.btn-login{
+    background-color: #000000;
+    color: whitesmoke;
+    border: none;
+    border-radius: 5px;
+    margin: 10px;
+    padding: 5px; 
+    
+}
+.btn-reg:hover:active{
+    background-color: #dc3545;
+}
+.btn-login:hover:active{
+    background-color: #dc3545;
+}
+
+
+    
+

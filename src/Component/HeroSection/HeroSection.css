@@ -1,0 +1,24 @@
+.container{
+    background-image: url("../HeroSection/13.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    min-height: 80vh;
+    min-width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    
+}
+.cars-btn a{
+    
+    
+    text-decoration: none;
+    color: whitesmoke;
+    
+    
+
+    
+}
